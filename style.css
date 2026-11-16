@@ -431,7 +431,7 @@ h3 {
     text-decoration: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 
     .contenedor-header {
         padding: 20px 15px;
